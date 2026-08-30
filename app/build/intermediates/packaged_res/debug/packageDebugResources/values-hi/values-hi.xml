@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">कैंपस ओएस</string>
+    <string name="appearance">दिखावट</string>
+    <string name="chat">चैट</string>
+    <string name="home">होम</string>
+    <string name="hub">अकादमिक हब</string>
+    <string name="profile">प्रोफ़ाइल</string>
+    <string name="settings">सेटिंग्स</string>
+    <string name="sign_out">साइन आउट</string>
+    <string name="timetable">समय सारिणी</string>
+    <string name="welcome_back">वापसी पर स्वागत है</string>
+</resources>

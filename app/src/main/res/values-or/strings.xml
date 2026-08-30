@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CampusOS</string>
+    <string name="welcome_back">ସ୍ୱାଗତମ୍</string>
+    <string name="home">ମୁଖ୍ୟ ପୃଷ୍ଠା</string>
+    <string name="hub">ଏକାଡେମିକ ହବ୍</string>
+    <string name="timetable">ସମୟ ସାରଣୀ</string>
+    <string name="chat">ଚାଟ୍</string>
+    <string name="profile">ପ୍ରୋଫାଇଲ୍</string>
+    <string name="settings">ସେଟିଙ୍ଗ୍ସ</string>
+    <string name="appearance">ରୂପରେଖ</string>
+    <string name="sign_out">ସାଇନ୍ ଆଉଟ୍</string>
+</resources>

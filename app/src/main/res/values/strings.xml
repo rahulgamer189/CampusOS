@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CampusOS</string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="home">Home</string>
+    <string name="hub">Academic Hub</string>
+    <string name="timetable">Timetable</string>
+    <string name="chat">Chat</string>
+    <string name="profile">Profile</string>
+    <string name="settings">Settings</string>
+    <string name="appearance">Appearance</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="attendance">Attendance</string>
+    <string name="cgpa">CGPA</string>
+    <string name="recent_updates">Recent Updates</string>
+</resources>

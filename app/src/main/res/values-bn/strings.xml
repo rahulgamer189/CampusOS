@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ক্যাম্পাস ওএস</string>
+    <string name="welcome_back">স্বাগতম</string>
+    <string name="home">হোম</string>
+    <string name="hub">একাডেমিক হাব</string>
+    <string name="timetable">সময়সূচী</string>
+    <string name="chat">চ্যাট</string>
+    <string name="profile">প্রোফাইল</string>
+    <string name="settings">সেটিংস</string>
+    <string name="appearance">চেহারা</string>
+    <string name="sign_out">সাইন আউট</string>
+</resources>

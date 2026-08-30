@@ -1,0 +1,80 @@
+com.example.campusos.app-jetified-emoji2-views-helper-1.3.0-0 C:\Users\HP\.gradle\caches\8.13\transforms\043e3076a31f46d2ea7f1fe28d72c620\transformed\jetified-emoji2-views-helper-1.3.0\res
+com.example.campusos.app-lifecycle-livedata-core-2.8.6-1 C:\Users\HP\.gradle\caches\8.13\transforms\057ad2f618c22929c43d2c897d0b78d4\transformed\lifecycle-livedata-core-2.8.6\res
+com.example.campusos.app-jetified-emoji2-1.3.0-2 C:\Users\HP\.gradle\caches\8.13\transforms\0685a582d5bdf93e079ed1adead3bdd8\transformed\jetified-emoji2-1.3.0\res
+com.example.campusos.app-navigation-runtime-ktx-2.8.3-3 C:\Users\HP\.gradle\caches\8.13\transforms\08eb4a894de9a22f9140ed2b6daf2124\transformed\navigation-runtime-ktx-2.8.3\res
+com.example.campusos.app-jetified-lifecycle-process-2.8.6-4 C:\Users\HP\.gradle\caches\8.13\transforms\0ec84342406b8d97d7670c42a4e1ce04\transformed\jetified-lifecycle-process-2.8.6\res
+com.example.campusos.app-jetified-datastore-core-release-5 C:\Users\HP\.gradle\caches\8.13\transforms\137ac8ae2f29b4119db64e47e1e9ddab\transformed\jetified-datastore-core-release\res
+com.example.campusos.app-jetified-animation-release-6 C:\Users\HP\.gradle\caches\8.13\transforms\1acf564271ac5263e8493f79085ce0e1\transformed\jetified-animation-release\res
+com.example.campusos.app-jetified-savedstate-1.2.1-7 C:\Users\HP\.gradle\caches\8.13\transforms\21fc7a3fc29ef2be1b82ec10bda7a138\transformed\jetified-savedstate-1.2.1\res
+com.example.campusos.app-jetified-core-ktx-1.15.0-8 C:\Users\HP\.gradle\caches\8.13\transforms\301acfb409dd8882111bcd6df1f6440e\transformed\jetified-core-ktx-1.15.0\res
+com.example.campusos.app-jetified-firebase-common-21.0.0-9 C:\Users\HP\.gradle\caches\8.13\transforms\33901b769d21318a088b25cd042fd288\transformed\jetified-firebase-common-21.0.0\res
+com.example.campusos.app-navigation-runtime-2.8.3-10 C:\Users\HP\.gradle\caches\8.13\transforms\340aa42cde162239e3bd6cd08e4d6e43\transformed\navigation-runtime-2.8.3\res
+com.example.campusos.app-browser-1.4.0-11 C:\Users\HP\.gradle\caches\8.13\transforms\354865efb470b6c891967b6065a8ca66\transformed\browser-1.4.0\res
+com.example.campusos.app-jetified-animation-core-release-12 C:\Users\HP\.gradle\caches\8.13\transforms\38cbda0bbddbcf185fb62f1e50115a8a\transformed\jetified-animation-core-release\res
+com.example.campusos.app-jetified-play-services-base-18.3.0-13 C:\Users\HP\.gradle\caches\8.13\transforms\39bcd7ccd20b1c49fd433e1cadb0d065\transformed\jetified-play-services-base-18.3.0\res
+com.example.campusos.app-jetified-ui-util-release-14 C:\Users\HP\.gradle\caches\8.13\transforms\40cc9b8f77604ad1a55b8601860698cd\transformed\jetified-ui-util-release\res
+com.example.campusos.app-appcompat-1.7.0-15 C:\Users\HP\.gradle\caches\8.13\transforms\42ddb80d0adfbb7f78c797a96d566c13\transformed\appcompat-1.7.0\res
+com.example.campusos.app-jetified-play-services-auth-21.2.0-16 C:\Users\HP\.gradle\caches\8.13\transforms\486d72f8bf734d9d1f538c9b22fad41b\transformed\jetified-play-services-auth-21.2.0\res
+com.example.campusos.app-navigation-common-ktx-2.8.3-17 C:\Users\HP\.gradle\caches\8.13\transforms\488d001cbd761aad35bbbb834875e3b6\transformed\navigation-common-ktx-2.8.3\res
+com.example.campusos.app-jetified-ui-test-manifest-1.7.5-18 C:\Users\HP\.gradle\caches\8.13\transforms\4c4f48b16debc1d875de3023a3fc1155\transformed\jetified-ui-test-manifest-1.7.5\res
+com.example.campusos.app-sqlite-2.4.0-19 C:\Users\HP\.gradle\caches\8.13\transforms\50f65b95d4d0a6a3c0fb08c511cd644e\transformed\sqlite-2.4.0\res
+com.example.campusos.app-jetified-profileinstaller-1.3.1-20 C:\Users\HP\.gradle\caches\8.13\transforms\53705261a3a9ae7c217dfd87ade1cb43\transformed\jetified-profileinstaller-1.3.1\res
+com.example.campusos.app-jetified-lifecycle-viewmodel-savedstate-2.8.6-21 C:\Users\HP\.gradle\caches\8.13\transforms\5858ae1c6732a2b7a7e8963add9a0d13\transformed\jetified-lifecycle-viewmodel-savedstate-2.8.6\res
+com.example.campusos.app-jetified-ui-tooling-preview-release-22 C:\Users\HP\.gradle\caches\8.13\transforms\5d0f7bde3d3fbb1c553d30737207531c\transformed\jetified-ui-tooling-preview-release\res
+com.example.campusos.app-jetified-graphics-path-1.0.1-23 C:\Users\HP\.gradle\caches\8.13\transforms\5ecf31012f76f71c1c5e1f0a4d571eec\transformed\jetified-graphics-path-1.0.1\res
+com.example.campusos.app-jetified-hilt-navigation-1.2.0-24 C:\Users\HP\.gradle\caches\8.13\transforms\62369fa2fd239f8bc67ef5bc789fa7e3\transformed\jetified-hilt-navigation-1.2.0\res
+com.example.campusos.app-jetified-tracing-1.2.0-25 C:\Users\HP\.gradle\caches\8.13\transforms\64396e0244920eadcbf638685cb79d0e\transformed\jetified-tracing-1.2.0\res
+com.example.campusos.app-jetified-annotation-experimental-1.4.1-26 C:\Users\HP\.gradle\caches\8.13\transforms\6b65c65b87466c0537f05bbd8bf2021b\transformed\jetified-annotation-experimental-1.4.1\res
+com.example.campusos.app-jetified-customview-poolingcontainer-1.0.0-27 C:\Users\HP\.gradle\caches\8.13\transforms\6c239261ba162099dcb8ddab841d3540\transformed\jetified-customview-poolingcontainer-1.0.0\res
+com.example.campusos.app-jetified-savedstate-ktx-1.2.1-28 C:\Users\HP\.gradle\caches\8.13\transforms\7195bae3e75f8809c2c7e74a507b5845\transformed\jetified-savedstate-ktx-1.2.1\res
+com.example.campusos.app-jetified-core-common-2.0.3-29 C:\Users\HP\.gradle\caches\8.13\transforms\787b4b33f2b35c54cab574949d47da08\transformed\jetified-core-common-2.0.3\res
+com.example.campusos.app-jetified-material-release-30 C:\Users\HP\.gradle\caches\8.13\transforms\7f36ed23e8e9f0b8c17f5e7412b5fde3\transformed\jetified-material-release\res
+com.example.campusos.app-jetified-foundation-release-31 C:\Users\HP\.gradle\caches\8.13\transforms\80e6f01b01a86a9565caa6c7bb5f447b\transformed\jetified-foundation-release\res
+com.example.campusos.app-jetified-datastore-preferences-release-32 C:\Users\HP\.gradle\caches\8.13\transforms\837d51befce3d418a8e943c0ce566b82\transformed\jetified-datastore-preferences-release\res
+com.example.campusos.app-jetified-appcompat-resources-1.7.0-33 C:\Users\HP\.gradle\caches\8.13\transforms\8a0eda6cfe34f574a59ab840785dd90d\transformed\jetified-appcompat-resources-1.7.0\res
+com.example.campusos.app-jetified-runtime-saveable-release-34 C:\Users\HP\.gradle\caches\8.13\transforms\974c5b316c3ac41f23995b6f74c51508\transformed\jetified-runtime-saveable-release\res
+com.example.campusos.app-jetified-credentials-1.3.0-35 C:\Users\HP\.gradle\caches\8.13\transforms\98d89714b713ff0fea7087eb70e4a44e\transformed\jetified-credentials-1.3.0\res
+com.example.campusos.app-jetified-activity-compose-1.9.3-36 C:\Users\HP\.gradle\caches\8.13\transforms\99761997bea8dc6d4e6c2835e739ae7a\transformed\jetified-activity-compose-1.9.3\res
+com.example.campusos.app-fragment-1.5.7-37 C:\Users\HP\.gradle\caches\8.13\transforms\9a9dfdf5151be9027b4e0f8a792a2777\transformed\fragment-1.5.7\res
+com.example.campusos.app-core-runtime-2.2.0-38 C:\Users\HP\.gradle\caches\8.13\transforms\9fc27a7a59be5aace94145d05695fa54\transformed\core-runtime-2.2.0\res
+com.example.campusos.app-jetified-lifecycle-viewmodel-compose-release-39 C:\Users\HP\.gradle\caches\8.13\transforms\a4e83fb55cbc0bcbc6878bbecb9c0b77\transformed\jetified-lifecycle-viewmodel-compose-release\res
+com.example.campusos.app-jetified-material3-release-40 C:\Users\HP\.gradle\caches\8.13\transforms\a639e0b9a7eeb8b4dd8e2c3b3af45954\transformed\jetified-material3-release\res
+com.example.campusos.app-jetified-material-icons-core-release-41 C:\Users\HP\.gradle\caches\8.13\transforms\a800e880e0c2c56abef96be8162c9f65\transformed\jetified-material-icons-core-release\res
+com.example.campusos.app-jetified-lifecycle-viewmodel-ktx-2.8.6-42 C:\Users\HP\.gradle\caches\8.13\transforms\aa8b1f55b86baa233ce7485138a310af\transformed\jetified-lifecycle-viewmodel-ktx-2.8.6\res
+com.example.campusos.app-jetified-credentials-play-services-auth-1.3.0-43 C:\Users\HP\.gradle\caches\8.13\transforms\ab2c5f604449467cc8665dab4e640b13\transformed\jetified-credentials-play-services-auth-1.3.0\res
+com.example.campusos.app-jetified-ui-unit-release-44 C:\Users\HP\.gradle\caches\8.13\transforms\adbe02868a93dc2f651a81df9179cf66\transformed\jetified-ui-unit-release\res
+com.example.campusos.app-navigation-common-2.8.3-45 C:\Users\HP\.gradle\caches\8.13\transforms\b0587371d5f745292afecc6affd51b3b\transformed\navigation-common-2.8.3\res
+com.example.campusos.app-jetified-navigation-compose-2.8.3-46 C:\Users\HP\.gradle\caches\8.13\transforms\b10e56c79b36b8bc14a9d17699b38b32\transformed\jetified-navigation-compose-2.8.3\res
+com.example.campusos.app-room-runtime-2.6.1-47 C:\Users\HP\.gradle\caches\8.13\transforms\b1105c3db99dbefbfac336dbbd518268\transformed\room-runtime-2.6.1\res
+com.example.campusos.app-core-1.15.0-48 C:\Users\HP\.gradle\caches\8.13\transforms\b35e72f0188e82025b86613920cc8e1f\transformed\core-1.15.0\res
+com.example.campusos.app-jetified-lifecycle-viewmodel-release-49 C:\Users\HP\.gradle\caches\8.13\transforms\b3cb680f92758aa2a2ed1140a50b9a85\transformed\jetified-lifecycle-viewmodel-release\res
+com.example.campusos.app-jetified-lifecycle-runtime-release-50 C:\Users\HP\.gradle\caches\8.13\transforms\b79f61c1fba70c5cdb3d92feb1dc3b65\transformed\jetified-lifecycle-runtime-release\res
+com.example.campusos.app-jetified-room-ktx-2.6.1-51 C:\Users\HP\.gradle\caches\8.13\transforms\b93e073ab608d15d10702711c984c2c5\transformed\jetified-room-ktx-2.6.1\res
+com.example.campusos.app-jetified-ui-geometry-release-52 C:\Users\HP\.gradle\caches\8.13\transforms\bb03747356980445543d075787582371\transformed\jetified-ui-geometry-release\res
+com.example.campusos.app-jetified-startup-runtime-1.1.1-53 C:\Users\HP\.gradle\caches\8.13\transforms\bf433132e743c8629ef0bd6efb26524e\transformed\jetified-startup-runtime-1.1.1\res
+com.example.campusos.app-jetified-lifecycle-runtime-ktx-release-54 C:\Users\HP\.gradle\caches\8.13\transforms\c6b4a30c90277e7a72a009f8c521f365\transformed\jetified-lifecycle-runtime-ktx-release\res
+com.example.campusos.app-jetified-ui-tooling-release-55 C:\Users\HP\.gradle\caches\8.13\transforms\c87b75ecf398756af32f216ff279adc0\transformed\jetified-ui-tooling-release\res
+com.example.campusos.app-jetified-material-ripple-release-56 C:\Users\HP\.gradle\caches\8.13\transforms\ccc89c3c2f5c6a3dbaa3c82ae50b4ec7\transformed\jetified-material-ripple-release\res
+com.example.campusos.app-jetified-ui-tooling-data-release-57 C:\Users\HP\.gradle\caches\8.13\transforms\d14ce9bd930056c4b2bd19f5bdcc03cb\transformed\jetified-ui-tooling-data-release\res
+com.example.campusos.app-jetified-material-icons-extended-release-58 C:\Users\HP\.gradle\caches\8.13\transforms\d1eefa889951f2bf41a5d260d7b21a2e\transformed\jetified-material-icons-extended-release\res
+com.example.campusos.app-jetified-ui-graphics-release-59 C:\Users\HP\.gradle\caches\8.13\transforms\d878005813416650168372d797c0ebf0\transformed\jetified-ui-graphics-release\res
+com.example.campusos.app-jetified-datastore-release-60 C:\Users\HP\.gradle\caches\8.13\transforms\daedffaee412b2e7850b4f2d89560c44\transformed\jetified-datastore-release\res
+com.example.campusos.app-jetified-ui-text-release-61 C:\Users\HP\.gradle\caches\8.13\transforms\df1b5f047435adaf8ba70ebec05181c9\transformed\jetified-ui-text-release\res
+com.example.campusos.app-jetified-activity-1.9.3-62 C:\Users\HP\.gradle\caches\8.13\transforms\df7910f1d1fa761c45b69390ce9d1c7b\transformed\jetified-activity-1.9.3\res
+com.example.campusos.app-sqlite-framework-2.4.0-63 C:\Users\HP\.gradle\caches\8.13\transforms\e38581cf4d575fc9c878600f8b0c2fe5\transformed\sqlite-framework-2.4.0\res
+com.example.campusos.app-jetified-ui-release-64 C:\Users\HP\.gradle\caches\8.13\transforms\ea57a851ef550aa8e143bd766e875da3\transformed\jetified-ui-release\res
+com.example.campusos.app-jetified-activity-ktx-1.9.3-65 C:\Users\HP\.gradle\caches\8.13\transforms\eb2a5d0d93137831f471a67dd9aae212\transformed\jetified-activity-ktx-1.9.3\res
+com.example.campusos.app-jetified-foundation-layout-release-66 C:\Users\HP\.gradle\caches\8.13\transforms\ed4c3cb1fed239e02a573238fe9887d1\transformed\jetified-foundation-layout-release\res
+com.example.campusos.app-jetified-runtime-release-67 C:\Users\HP\.gradle\caches\8.13\transforms\f27cb2fa1305495436f01cb39712baaa\transformed\jetified-runtime-release\res
+com.example.campusos.app-jetified-play-services-basement-18.4.0-68 C:\Users\HP\.gradle\caches\8.13\transforms\f6198e1ad6a531ac28823848aed4343c\transformed\jetified-play-services-basement-18.4.0\res
+com.example.campusos.app-jetified-lifecycle-runtime-compose-release-69 C:\Users\HP\.gradle\caches\8.13\transforms\f8fb647d1e1462d828acad2dd795969b\transformed\jetified-lifecycle-runtime-compose-release\res
+com.example.campusos.app-jetified-hilt-navigation-compose-1.2.0-70 C:\Users\HP\.gradle\caches\8.13\transforms\fd5f48085f74085814dbabc14afdaffa\transformed\jetified-hilt-navigation-compose-1.2.0\res
+com.example.campusos.app-pngs-71 C:\Users\HP\Desktop\Lernathon 5.0 Project\EDU Talent Pro\MK-2\app\build\generated\res\pngs\debug
+com.example.campusos.app-res-72 C:\Users\HP\Desktop\Lernathon 5.0 Project\EDU Talent Pro\MK-2\app\build\generated\res\processDebugGoogleServices
+com.example.campusos.app-resValues-73 C:\Users\HP\Desktop\Lernathon 5.0 Project\EDU Talent Pro\MK-2\app\build\generated\res\resValues\debug
+com.example.campusos.app-updated_navigation_xml-74 C:\Users\HP\Desktop\Lernathon 5.0 Project\EDU Talent Pro\MK-2\app\build\generated\updated_navigation_xml\debug
+com.example.campusos.app-packageDebugResources-75 C:\Users\HP\Desktop\Lernathon 5.0 Project\EDU Talent Pro\MK-2\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.campusos.app-packageDebugResources-76 C:\Users\HP\Desktop\Lernathon 5.0 Project\EDU Talent Pro\MK-2\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.campusos.app-debug-77 C:\Users\HP\Desktop\Lernathon 5.0 Project\EDU Talent Pro\MK-2\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.campusos.app-debug-78 C:\Users\HP\Desktop\Lernathon 5.0 Project\EDU Talent Pro\MK-2\app\src\debug\res
+com.example.campusos.app-main-79 C:\Users\HP\Desktop\Lernathon 5.0 Project\EDU Talent Pro\MK-2\app\src\main\res

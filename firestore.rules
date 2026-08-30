@@ -1,0 +1,78 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    function signedIn() { return request.auth != null; }
+    function isSelf(uid) { return signedIn() && request.auth.uid == uid; }
+    function getUserData() { return get(/databases/$(database)/documents/users/$(request.auth.uid)).data; }
+    function hasRole(role) { return signedIn() && getUserData().role == role; }
+
+    match /users/{uid} {
+      allow read: if signedIn();
+      allow write: if isSelf(uid) || hasRole('ADMIN');
+    }
+
+    match /personalDocuments/{documentId} {
+      allow read, update, delete: if signedIn() && resource.data.studentId == request.auth.uid;
+      allow create: if signedIn() && request.resource.data.studentId == request.auth.uid;
+    }
+
+    match /appointments/{appointmentId} {
+      allow read: if signedIn() && (
+        resource.data.studentId == request.auth.uid ||
+        resource.data.facultyId == request.auth.uid ||
+        hasRole('ADMIN')
+      );
+      allow create: if signedIn();
+      allow update: if signedIn() && (
+        resource.data.facultyId == request.auth.uid ||
+        hasRole('ADMIN')
+      );
+    }
+
+    match /messages/{messageId} {
+      // Participants can read their messages.
+      allow read: if signedIn() && (
+        resource.data.senderId == request.auth.uid ||
+        resource.data.receiverId == request.auth.uid ||
+        hasRole('ADMIN')
+      );
+      allow create: if signedIn() && request.resource.data.senderId == request.auth.uid;
+    }
+
+    match /academicContent/{contentId} {
+      allow read: if signedIn();
+      allow write: if hasRole('ADMIN') || hasRole('FACULTY');
+    }
+
+    match /timetable/{eventId} {
+      allow read: if signedIn();
+      allow write: if hasRole('ADMIN') || hasRole('FACULTY');
+    }
+
+    match /cv_applications/{applicationId} {
+      allow read: if signedIn() && (
+        resource.data.candidateEmail == request.auth.token.email ||
+        hasRole('ADMIN')
+      );
+      allow create: if signedIn();
+      allow update: if hasRole('ADMIN');
+    }
+
+    match /submissions/{submissionId} {
+      allow read: if signedIn() && (resource.data.studentId == request.auth.uid || hasRole('ADMIN') || hasRole('FACULTY'));
+      allow create: if signedIn() && request.resource.data.studentId == request.auth.uid;
+      allow update, delete: if signedIn() && (resource.data.studentId == request.auth.uid || hasRole('ADMIN'));
+    }
+
+    match /teacher_shortages/{shortageId} {
+      allow read: if signedIn();
+      allow write: if hasRole('ADMIN');
+    }
+
+    match /achievements/{achievementId} {
+      allow read: if signedIn() && (resource.data.isPublic == true || resource.data.userId == request.auth.uid || hasRole('ADMIN') || hasRole('FACULTY'));
+      allow create: if signedIn() && request.resource.data.userId == request.auth.uid;
+      allow update, delete: if signedIn() && (resource.data.userId == request.auth.uid || hasRole('ADMIN'));
+    }
+  }
+}

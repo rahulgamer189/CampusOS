@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">கேம்பஸ் ஓஎஸ்</string>
+    <string name="appearance">தோற்றம்</string>
+    <string name="chat">அரட்டை</string>
+    <string name="home">முகப்பு</string>
+    <string name="hub">கல்வி மையம்</string>
+    <string name="profile">சுயவிவரம்</string>
+    <string name="settings">அமைப்புகள்</string>
+    <string name="sign_out">வெளியேறு</string>
+    <string name="timetable">கால அட்டவணை</string>
+    <string name="welcome_back">மீண்டும் வருக</string>
+</resources>

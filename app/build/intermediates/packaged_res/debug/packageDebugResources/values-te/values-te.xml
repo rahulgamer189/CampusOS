@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CampusOS</string>
+    <string name="appearance">రూపం</string>
+    <string name="attendance">హాజరు</string>
+    <string name="cgpa">సిజిపిఎ</string>
+    <string name="hub">అకాడమిక్ హబ్</string>
+    <string name="profile">ప్రొఫైల్</string>
+    <string name="recent_updates">ఇటీవలి అప్‌డేట్‌లు</string>
+    <string name="settings">సెట్టింగులు</string>
+    <string name="sign_out">సైన్ అవుట్</string>
+    <string name="timetable">సమయ పట్టిక</string>
+</resources>
