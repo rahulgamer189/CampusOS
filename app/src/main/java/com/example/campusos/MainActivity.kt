@@ -35,6 +35,7 @@ import javax.inject.Inject
 @HiltAndroidApp class CampusOSApplication : android.app.Application()
 
 @HiltViewModel
+
 class CampusOSViewModel @Inject constructor(
     private val repository: CampusOSRepository,
     private val prefRepository: UserPreferencesRepository,
